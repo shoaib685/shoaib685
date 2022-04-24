@@ -10,9 +10,7 @@
   <a href="https://www.youtube.com/channel/UCgzsVh72qLsSjXeu6f3Txtg"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <div align="center"><img width="50%" height="auto" alt="discord" src="https://discord.c99.nl/widget/theme-3/596187535152250890.png" height="175px"/></div>
 <div align="center">
-<a href="https://top.gg/bot/813649336751620147">
-<img width="50%" height="auto" alt="discord" src="https://top.gg/api/widget/813649336751620147.svg" height="175px"/>
-</a></div>
+
 
 
 ## 🙋‍♂️ About Me
